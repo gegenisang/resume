@@ -1,0 +1,40 @@
+<view class="padding text-center  intro-skill">
+  <view class="padding-xl radius shadow bg-white main-intro">
+    <view class="cu-bar bg-white  margin-top">
+      <view class="action">
+        <text class="cuIcon-title text-red"></text>
+        简介
+      </view>
+    </view>
+    <view class="padding bg-white">学习慕课网视频教程，构建了一个仿网易云音乐小程序</view>
+    <view class="padding bg-white">学习慕课网视频教程，构建了一个仿豆瓣电影小程序</view>
+    <view class="padding bg-white">独立开发了一个全功能的待办事项小程序，主要参考的是 Microsoft To Do</view>
+    <view class="padding bg-white">独立开发了一个简单的个人简介小程序</view>
+    <view class="padding bg-white">购买服务器、域名，搭建了个人网站 https://xiaoduoduo.cool</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-yellow"></text>
+    To Do  项目
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="qr">
+    <image class='qr-image' src="cloud://test-9p1vk.7465-test-9p1vk-1302837475/ToDo.jpg" mode="aspectFit" bind:tap="clickImg" data-url="cloud://test-9p1vk.7465-test-9p1vk-1302837475/ToDo.jpg" />
+    <view class="qr-desc">由于个人小程序不能包含备忘录、记事本功能，导致线上 ToDo 小程序的新版无法过审。 二维码放在这里仅供参考。</view>
+  </view>
+</view>
+<block wx:for="{{dataList}}">
+  <view class="padding-xl radius shadow bg-white main-intro">
+    <block wx:for="{{item.descriptionList}}" wx:for-item="desc">
+      <view class="padding bg-white">
+        <text class="cuIcon-move text-blue"></text>
+        {{desc}}
+      </view>
+    </block>
+  </view>
+  <view class="margin-top padding  shadow intro-project">
+    <image bind:tap="clickImg" src="{{item.imageUrl}}" mode="widthFix" data-url="{{item.imageUrl}}" class="img" />
+  </view>
+</block>

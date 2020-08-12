@@ -1,0 +1,119 @@
+<view class="padding text-center  intro-skill">
+  <view class="padding-xl radius shadow bg-white main-intro">
+    <view class="cu-bar bg-white  margin-top">
+      <view class="action">
+        <text class="cuIcon-title text-red"></text>
+        日常搜索以英文为主
+      </view>
+    </view>
+    <view class="padding bg-white">包括：Google、StackOverflow、GitHub</view>
+    <view class="cu-bar bg-white margin-top">
+      <view class="action">
+        <text class="cuIcon-title text-yellow"></text>
+        前端技能
+      </view>
+    </view>
+    <view class="padding bg-white">HTML / CSS / JavaScript，基础知识扎实，阅读学习过很多Web技术书籍</view>
+    <view class="padding bg-white">熟练使用 Bootstrap / jQuery</view>
+    <view class="padding bg-white">会使用 Git 进行版本管理</view>
+    <view class="padding bg-white">自学获得了 FreeCodeCamp（世界上最大的前端学习网站）前端证书（约400小时学习时长</view>
+    <view class="padding bg-white">提取、解包微信小程序源码，阅读整理压缩过的代码（我就通过这种方式学习优秀的小程序源码）</view>
+    <view class="cu-bar bg-white  margin-top">
+      <view class="action">
+        <text class="cuIcon-title text-green"></text>
+        前端证书地址：(长按复制下面地址)
+      </view>
+    </view>
+    <view class="padding bg-white">
+      <text bindtap='clickAddress'>https://www.freecodecamp.org/certification/gegenisang/legacy-front-end</text>
+    </view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-blue"></text>
+    HTML/HTML5
+  </view>
+</view>
+<view class="padding bg-white">
+  <view class="cu-progress round striped active">
+    <view class="bg-blue" style="width:{{loading?'90%':''}};">90%</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-orange"></text>
+    CSS
+  </view>
+</view>
+<view class="padding bg-white">
+  <view class="cu-progress round striped active">
+    <view class="bg-orange" style="width:{{loading?'80%':''}};">80%</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-yellow"></text>
+    JavaScript
+  </view>
+</view>
+<view class="padding bg-white">
+  <view class="cu-progress round striped active">
+    <view class="bg-yellow" style="width:{{loading?'80%':''}};">80%</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-olive"></text>
+    Bootstrap
+  </view>
+</view>
+<view class="padding bg-white">
+  <view class="cu-progress round striped active">
+    <view class="bg-olive" style="width:{{loading?'80%':''}};">80%</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-cyan"></text>
+    Git
+  </view>
+</view>
+<view class="padding bg-white">
+  <view class="cu-progress round striped active">
+    <view class="bg-cyan" style="width:{{loading?'70%':''}};">70%</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-purple"></text>
+    JQuery
+  </view>
+</view>
+<view class="padding bg-white">
+  <view class="cu-progress round striped active">
+    <view class="bg-purple" style="width:{{loading?'70%':''}};">70%</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-mauve"></text>
+    小程序开发
+  </view>
+</view>
+<view class="padding bg-white">
+  <view class="cu-progress round striped active">
+    <view class="bg-mauve" style="width:{{loading?'90%':''}};">90%</view>
+  </view>
+</view>
+<view class="cu-bar bg-white  margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-pink"></text>
+    NodeJs
+  </view>
+</view>
+<view class="padding bg-white last-panel">
+  <view class="cu-progress round striped active">
+    <view class="bg-pink" style="width:{{loading?'70%':''}};">70%</view>
+  </view>
+</view>

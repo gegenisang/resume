@@ -1,0 +1,65 @@
+<view class="padding">
+  <view class="padding-xl radius shadow-warp bg-white margin-top">
+    <view class="flex justify-center">
+      <image class="cu-avatar xl round" src="../../images/2.png"></image>
+    </view>
+    <view class="flex justify-center margin-top-sm">
+      <text class="text-bold">魏婷婷</text>
+    </view>
+    <view class="flex justify-center margin-top-sm">
+      <text>期望职位：</text>
+      <text class="text-shadow text-orange">小程序前端开发</text>
+    </view>
+    <view class="flex justify-center margin-top-sm">
+      <text>女</text>
+      <text class="margin-left-sm">28岁</text>
+      <text class="margin-left-sm">2年工作经验</text>
+    </view>
+    <view class="flex justify-around margin-top-sm">
+      <view bindtap="showQrcode">
+        <text class="cuIcon-weixin text-xl text-blue"></text>
+        <text class="margin-left-xs">添加微信</text>
+      </view>
+      <view bindtap="phoneCall">
+        <text class="cuIcon-phone text-xl text-blue"></text>
+        <text class="margin-left-xs">拨打电话</text>
+      </view>
+      <view bindtap="saveContact">
+        <text class="cuIcon-addressbook text-xl text-blue"></text>
+        <text class="margin-left-xs">保存通讯录</text>
+      </view>
+    </view>
+  </view>
+  <view class="padding-xl radius shadow-warp bg-white margin-top format">
+    <view class="cuIcon-group_fill text-xl text-blue text-center"></view>
+    <view class="edu margin-top text-center text-bold"></view>
+    <view class="margin-top">
+      <text class="cuIcon-time"></text>
+      <text class="margin-left-sm">2010-2015</text>
+    </view>
+    <view class="margin-top-sm">
+      <text class="cuIcon-home"></text>
+      <text class="margin-left-sm">北京理工大学</text>
+    </view>
+    <view class="margin-top-sm">
+      <text class="cuIcon-attentionfavor"></text>
+      <text class="margin-left-sm">国际经济与贸易/本科</text>
+    </view>
+  </view>
+  <view class="padding-xl radius shadow-warp bg-white margin-top">
+    <view class="cuIcon-medalfill text-xl text-blue text-center"></view>
+    <view class="medalfill margin-top text-center text-bold"></view>
+    <view class="margin-top evaluate-cont">
+      <text>每学期都获取校奖学金</text>
+    </view>
+  </view>
+  <view class="padding-xl radius shadow-warp bg-white margin-top last-panel">
+    <view class="cuIcon-appreciatefill text-xl text-blue text-center"></view>
+    <view class="evaluate margin-top text-center text-bold"></view>
+    <view class="margin-top evaluate-cont">
+      <text>感觉学习是最快乐最有意思的事情 </text>
+      <text>喜欢写代码</text>
+      <text> 自来熟有亲和力</text>
+    </view>
+  </view>
+</view>
