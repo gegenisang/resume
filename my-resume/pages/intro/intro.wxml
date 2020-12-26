@@ -15,6 +15,12 @@
       <text class="margin-left-sm">XX岁</text>
       <text class="margin-left-sm">X年工作经验</text>
     </view>
+    <view class="flex justify-center margin-top-sm">
+      <text>源码地址:(长按下方地址复制)</text>
+    </view>
+    <view class="flex justify-center margin-top-sm">
+      <text catch:tap="copy">https://github.com/gegenisang/resume</text>
+    </view>
     <view class="flex justify-around margin-top-sm">
       <view bindtap="showQrcode">
         <text class="cuIcon-weixin text-xl text-blue"></text>
@@ -35,7 +41,7 @@
     <view class="edu margin-top text-center text-bold"></view>
     <view class="margin-top">
       <text class="cuIcon-time"></text>
-      <text class="margin-left-sm">2010-2015</text>
+      <text class="margin-left-sm">xxxx年-xxxx年</text>
     </view>
     <view class="margin-top-sm">
       <text class="cuIcon-home"></text>

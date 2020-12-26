@@ -5,12 +5,25 @@ Page({
    * Page initial data
    */
   data: {
-
+    gitAddress: 'https://github.com/gegenisang/resume'
   },
 
   /**
    * Lifecycle function--Called when page load
    */
+  copy: function (e) {
+    var that = this;
+    console.log(e);
+    wx.setClipboardData({
+      data: that.data.gitAddress,
+      success: function (res) {
+        wx.showToast({
+          title: '复制成功',
+        });
+      }
+    });
+  },
+
   showQrcode: function () {
     wx.previewImage({
       current: 'cloud://test-9p1vk.7465-test-9p1vk-1302837475/WechatIMG6.jpeg',
