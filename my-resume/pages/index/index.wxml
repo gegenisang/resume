@@ -2,7 +2,7 @@
   <view class="content content-intro">
     <view class="content-inner" animation="{{animationData}}">
       <view class="wrap fade in">
-        <text class="content-title">魏婷婷</text>
+        <text class="content-title">快乐的喵</text>
         <view class="content-subtitle">
           <text>小</text>
           <text>程</text>
@@ -33,7 +33,7 @@
               <image alt="avatar" class="userhead" src='../../images/2.png' />
             </view>
             <view class="signature">
-              <text class="cardname">魏婷婷</text>
+              <text class="cardname">快乐的喵</text>
               <text class="print">Code & Input & Output</text>
             </view>
           </view>

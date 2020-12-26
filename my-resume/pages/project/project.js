@@ -41,13 +41,6 @@ Page({
       urls: [imageUrl]
     })
   },
-  // ClickQrImg (event) {
-  //   console.log('event  click qr', event);
-  //   wx.previewImage({
-  //     current: qrImgUrl,
-  //     urls: [qrImgUrl]
-  //   })
-  // },
   onReady: function () { },
   onShow: function () { },
   onHide: function () { },

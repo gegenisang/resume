@@ -4,7 +4,7 @@
       <image class="cu-avatar xl round" src="../../images/2.png"></image>
     </view>
     <view class="flex justify-center margin-top-sm">
-      <text class="text-bold">魏婷婷</text>
+      <text class="text-bold">快乐的喵</text>
     </view>
     <view class="flex justify-center margin-top-sm">
       <text>期望职位：</text>
@@ -12,8 +12,8 @@
     </view>
     <view class="flex justify-center margin-top-sm">
       <text>女</text>
-      <text class="margin-left-sm">28岁</text>
-      <text class="margin-left-sm">2年工作经验</text>
+      <text class="margin-left-sm">XX岁</text>
+      <text class="margin-left-sm">X年工作经验</text>
     </view>
     <view class="flex justify-around margin-top-sm">
       <view bindtap="showQrcode">
@@ -39,11 +39,11 @@
     </view>
     <view class="margin-top-sm">
       <text class="cuIcon-home"></text>
-      <text class="margin-left-sm">北京理工大学</text>
+      <text class="margin-left-sm">XXX大学</text>
     </view>
     <view class="margin-top-sm">
       <text class="cuIcon-attentionfavor"></text>
-      <text class="margin-left-sm">国际经济与贸易/本科</text>
+      <text class="margin-left-sm">XXXXXX专业</text>
     </view>
   </view>
   <view class="padding-xl radius shadow-warp bg-white margin-top">

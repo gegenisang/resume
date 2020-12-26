@@ -19,15 +19,15 @@ Page({
   },
   phoneCall: function () {
     wx.makePhoneCall({
-      phoneNumber: '13120272373'
+      phoneNumber: '9999999'
     })
   },
   saveContact: function () {
     wx.addPhoneContact({
-      firstName: '婷婷',
-      lastName: '魏',
+      firstName: 'XX',
+      lastName: 'X',
       remark: '小程序前端工程师',
-      mobilePhoneNumber: '13120272373'
+      mobilePhoneNumber: '99999999'
     })
   },
   onLoad: function (options) {

@@ -6,11 +6,8 @@
         简介
       </view>
     </view>
-    <view class="padding bg-white">学习慕课网视频教程，构建了一个仿网易云音乐小程序</view>
-    <view class="padding bg-white">学习慕课网视频教程，构建了一个仿豆瓣电影小程序</view>
     <view class="padding bg-white">独立开发了一个全功能的待办事项小程序，主要参考的是 Microsoft To Do</view>
     <view class="padding bg-white">独立开发了一个简单的个人简介小程序</view>
-    <view class="padding bg-white">购买服务器、域名，搭建了个人网站 https://xiaoduoduo.cool</view>
   </view>
 </view>
 <view class="cu-bar bg-white  margin-top">

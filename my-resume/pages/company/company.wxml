@@ -1,13 +1,18 @@
 <view class="cu-timeline">
   <view class="cu-item  text-cyan">
     <view class="content">
-      <view class="title">北京小桔科技有限公司（滴滴打车）</view>
+      <view class="title">北京XXX有限公司</view>
       <view class="cu-capsule radius">
         <view class="cu-tag bg-cyan">实习</view>
-        <view class="cu-tag line-cyan">2014年7月-2014年12月</view>
+        <view class="cu-tag line-cyan">XXX年X月-XXX年X月</view>
       </view>
       <view class="margin-top">
-        带领6个人的实习生小团队，负责滴滴专车业务的司机数据收集、整理，对专车司机进行培训、考核，由于工作能力出众，被选派到武汉和上海帮助当地团队启动专车业务。此外我还负责全国16个城市的运管日报的汇总、整理及修改。
+        实习经历：XXXXXXXXXXXXXXXXXXXXXX
+        XXXXXXXXXXXXXXXX
+        XXXXXXXXXXXXXXXXXXXX
+        XXXXXXXXXXXXXXXXXXXXXXXXXXX
+        XXXXXXXXXXXXXXXXXXXXXX
+        XXXXXXXXXXXXXXXXXXXXXXXXXXXX
       </view>
     </view>
   </view>
@@ -15,47 +20,57 @@
 <view class="cu-timeline">
   <view class="cu-item  text-orange">
     <view class="content">
-      <view class="title">北京奇虎科技有限公司（360公司）</view>
+      <view class="title">北京XXX有限公司</view>
       <view class="cu-capsule radius">
         <view class="cu-tag bg-orange">实习</view>
-        <view class="cu-tag line-orange">2014年12月-2015年2月</view>
+        <view class="cu-tag line-orange">XXX年X月-XXX年X月</view>
       </view>
-      <view class="margin-top">主要负责360微信公众号、论坛上与抽奖相关的活动运营，包括抽奖活动的策划、奖品的发放、以及活动的用户参与相关数据的统计分析。</view>
+      <view class="margin-top">XXXXXXXXXXXXXX
+      XXXXXXXXXXXXXX
+      XXXXXXXXXXXXXX</view>
     </view>
   </view>
 </view>
 <view class="cu-timeline">
   <view class="cu-item  text-pink">
     <view class="content">
-      <view class="title">FCC开发者社区</view>
+      <view class="title">XXXXXXX</view>
       <view class="cu-capsule radius">
         <view class="cu-tag bg-pink">线下活动组织者</view>
-        <view class="cu-tag line-pink">2015年5月-2015年8月</view>
+        <view class="cu-tag line-pink">XXX年X月-XXX年X月</view>
       </view>
-      <view class="margin-top">担任 FreeCodeCamp 北京地区 Coffee&Code 微信群管理员、线下活动组织者。</view>
+      <view class="margin-top">
+        XXXXXXXXXXXXXXXXXXX
+      XXXXXXXXXXXXXXXXXXXXXXX
+      XXXXXXXXXXXXXX
+      XXXXXXXXXXXXXXXXXXXXX
+      </view>
     </view>
   </view>
 </view>
 <view class="cu-timeline">
   <view class="cu-item  text-green">
     <view class="content">
-      <view class="title">寻医问药网</view>
+      <view class="title">XXXXXXX</view>
       <view class="cu-capsule radius">
         <view class="cu-tag bg-green">产品运营专员</view>
-        <view class="cu-tag line-green">2015年6月-2016年12月</view>
+        <view class="cu-tag line-green">XXXX年6月-XXXX年12月</view>
       </view>
       <view class="margin-top">
         <view>
           <i class="iconfont icon-right-fill"></i>
-          有问必答"板块首页内容的策划与定期更新
+          XXXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXX
         </view>
         <view>
           <i class="iconfont icon-right-fill"></i>
-          对各个细分板块的页面进行测试与优化，小的改动自己通过HTML和CSS进行调整，大的改动提交给前端工程师进行修改
+          XXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXXX
         </view>
         <view>
           <i class="iconfont icon-right-fill"></i>
-          网站运营数据的收集、整理、统计和分析，结合页面内容和运营数据，进行搜索引擎优化（SEO，主要针对百度的收录情况）
+          XXXXXXXXXXXXXXX
+          XXXXXXXXXXXXX
         </view>
       </view>
     </view>
@@ -66,10 +81,15 @@
     <view class="content ">
       <view class="title"></view>
       <view class="cu-capsule radius">
-        <view class="cu-tag bg-blue">全职妈妈</view>
-        <view class="cu-tag line-blue">2017年1月至今</view>
+        <view class="cu-tag bg-blue">XXXXXXX</view>
+        <view class="cu-tag line-blue">XXXXXXX年1月至今</view>
       </view>
-      <view class="margin-top">生娃带娃👶🍼，同时继续自学前端，主要是微信小程序开发和 React</view>
+      <view class="margin-top">
+        XXXXXXXXXXXXXX
+      XXXXXXXXX
+      XXXXXXXXXXXXXXXXX
+      XXXXXXXXX
+      </view>
     </view>
   </view>
 </view>
